@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Beine"
+  given-names: "Julia Jennifer"
+  orcid: "https://orcid.org/0000-0001-8979-8706"
+title: "The schemer unmasked. Sketching a digital profile of the scheming slave in Roman comedy. Dataset"
+version: 1.0.0
+doi: 10.5281/zenodo.10960182
+date-released: 2024-04-11
+url: "https://doi.org/10.5281/zenodo.10960182"
